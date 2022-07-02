@@ -1,7 +1,7 @@
 import { Box, Flex, Heading, Text } from "@chakra-ui/react";
 
 import { DeveloperCard } from "../../../../components/DeveloperCard";
-import { developers } from "./Developers";
+import { developers } from "./Developer";
 
 export const AboutUs = () => {
   return (

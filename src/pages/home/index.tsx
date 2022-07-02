@@ -5,7 +5,7 @@ import { AboutUs } from "./Sections/AboutUs";
 import { GeneralInfo } from "./Sections/GeneralInfo";
 import { NewsContainer } from "./Sections/NewsContainer";
 import { OfferedAssistance } from "./Sections/OfferedAssistance";
-import { OurPartnersContainer } from "./Sections/PartnersCarousel";
+import { OurPartnersContainer } from "./Sections/PartnerCarousel";
 
 export const Home = () => {
   return (

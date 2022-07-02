@@ -98,7 +98,7 @@ export const RegisterForm = () => {
               name="value"
               gap="30px"
               display="flex"
-              widht="100%"
+              width="100%"
               gridTemplateColumns={[
                 "repeat(2, 150px)",
                 "repeat(2, 150px)",

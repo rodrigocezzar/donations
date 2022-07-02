@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { Box, Heading, useMediaQuery } from "@chakra-ui/react";
 import AOS from "aos";
 
-import { AssistanceBox } from "../../../../components/AssistanceBox";
+import { AssistanceBox } from "../../../../components/AssistaceBox";
 import { AssistanceBulletSlider } from "./assistanceBulletSlider";
 
 import "aos/dist/aos.css";

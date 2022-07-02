@@ -6,7 +6,7 @@ import { Login } from "../pages/login";
 import { User } from "../pages/user";
 import { Partners } from "../pages/partners";
 import { DonationPage } from "../pages/donation";
-import { Donachos } from "../pages/donachos";
+// import { Donachos } from "../pages/donachos";
 import { PrivateRoute } from "./PrivateRoute";
 import { Help } from "../pages/help";
 
@@ -25,7 +25,7 @@ export const Routes = () => (
     />
     <Route path="/partners" element={<Partners />} />
     <Route path="/donation" element={<DonationPage />} />
-    <Route path="/donachos" element={<Donachos />} />
+    {/* <Route path="/donachos" element={<Donachos />} /> */}
     <Route path="/help" element={<Help />} />
   </RoutesSwitch>
 );

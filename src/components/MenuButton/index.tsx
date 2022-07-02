@@ -36,7 +36,7 @@ export const MenuButton = () => {
           background="gray.300.20"
           mt="85px"
           sx={{ backdropFilter: "blur(7px)" }}
-          fontSizes="lg"
+          fontSize="lg"
         >
           <Box width="100%" h="16px" bg="gray.100.15" />
           <Grid gap={8} padding="16px 0 16px 0">
